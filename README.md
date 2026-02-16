@@ -9,11 +9,6 @@ comtypes==1.4.13
 docutils==0.21.2
 et_xmlfile==2.0.0
 idna==3.10
-Kivy==2.3.0
-kivy-deps.angle==0.4.0
-kivy-deps.glew==0.3.1
-kivy-deps.sdl2==0.7.0
-Kivy-Garden==0.1.5
 openpyxl==3.1.5
 packaging==25.0
 pefile==2023.2.7
